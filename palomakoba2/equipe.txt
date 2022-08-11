@@ -1,0 +1,21 @@
+(PO)
+Product Owner: Gabriely Cristine
+Equipe: A
+(SM)
+Scrum mascter: Edurado Hernany
+	
+	Desenvolvedor 1: (Devs) Manoel
+	Habilidades: 
+	Experiencias:
+
+	Desenvolvedor 2: (Devs) Rafael
+	Habilidades: 
+	Experiencias:
+
+	Desenvolvedor 3: (Devs) Elyon
+	Habilidades: 
+	Experiencias:
+
+	Desenvolvedor 4: (Devs) Alexandra
+	Habilidades: 
+	Experiencias:
